@@ -1,7 +1,9 @@
 # dino-game
 Dino game from Dio.me  Orbi game developer bootcamp  and phillips full stack bootcamp
 
-## technologies
+## vercel link https://dino-game-pi.vercel.app/
+
+### technologies
 - HTML
 - CSS
 - Javascript
